@@ -1,0 +1,216 @@
+# Copyright (C) 2020
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nolad Extension 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nolad-extension\n"
+"POT-Creation-Date: 2020-02-20 14:29:49+00:00\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/HelloWorld/HelloWorld.php:15
+msgid "Hello World"
+msgstr ""
+
+#: includes/modules/HelloWorld/HelloWorld.php:21
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:19
+msgid "Content"
+msgstr ""
+
+#: includes/modules/HelloWorld/HelloWorld.php:24
+msgid "Content entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:5
+msgid "Fullwidth Portfolio"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:6
+msgid "Fullwidth Portfolios"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:20
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:25
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:207
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:26
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:27
+msgid "Rotation"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:29
+msgid "Text"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:32
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:102
+msgid "Image"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:38
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:48
+msgid "Title"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:64
+msgid "Portfolio Item Title"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:74
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:177
+msgid "Meta"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:110
+msgid "Image Box Shadow"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:161
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:197
+msgid "Portfolio Title"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:165
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:169
+msgid "Item Overlay"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:173
+msgid "Item Title"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:181
+msgid "Navigation Arrows"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:189
+msgid "An introduction to the Fullwidth Portfolio module"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:200
+msgid "Title displayed above the portfolio."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:211
+msgid "Carousel"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:212
+msgid "Grid"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:220
+msgid "Choose your desired portfolio layout style."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:223
+msgid "Included Categories"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:226
+msgid "All Categories"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:227
+msgid "Current Category"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:230
+msgid "Select the categories that you would like to include in the feed."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:238
+msgid "Post Count"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:241
+msgid ""
+"Control how many projects are displayed. Leave blank or use 0 to not limit "
+"the amount."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:248
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:252
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:266
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:253
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:267
+msgid "No"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:257
+msgid "Turn project titles on or off."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:262
+msgid "Show Date"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:271
+msgid "Turn the date display on or off."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:276
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:277
+msgid "Here you can define a custom color for the zoom icon."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:285
+msgid "Overlay Background Color"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:286
+msgid ""
+"Pick a color to use for the icon that appears when hovering over a portfolio "
+"item."
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:294
+msgid "Overlay Icon"
+msgstr ""
+
+#: includes/modules/NoladPortfolio/NoladPortfolio.php:295
+msgid "Select an icon to appear when hovering over a portfolio item."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Nolad Extension"
+msgstr ""
