@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nolad Extension 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nolad-extension\n"
-"POT-Creation-Date: 2020-02-20 14:29:49+00:00\n"
+"POT-Creation-Date: 2020-02-20 14:56:25+00:00\n"
 "PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,11 +38,11 @@ msgid "Content entered here will appear inside the module."
 msgstr ""
 
 #: includes/modules/NoladPortfolio/NoladPortfolio.php:5
-msgid "Fullwidth Portfolio"
+msgid "Nolad Fullwidth Portfolio"
 msgstr ""
 
 #: includes/modules/NoladPortfolio/NoladPortfolio.php:6
-msgid "Fullwidth Portfolios"
+msgid "Nolad Fullwidth Portfolios"
 msgstr ""
 
 #: includes/modules/NoladPortfolio/NoladPortfolio.php:20

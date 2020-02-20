@@ -2,8 +2,8 @@
 
 class ET_Nolad_Portfolio extends ET_Builder_Module_Type_PostBased {
 	function init() {
-		$this->name       = esc_html__( 'Fullwidth Portfolio', 'noex-nolad-extension' );
-		$this->plural     = esc_html__( 'Fullwidth Portfolios', 'noex-nolad-extension' );
+		$this->name       = esc_html__( 'Nolad Fullwidth Portfolio', 'noex-nolad-extension' );
+		$this->plural     = esc_html__( 'Nolad Fullwidth Portfolios', 'noex-nolad-extension' );
 		$this->slug       = 'noex_portfolio';
 		$this->vb_support = 'on';
 		$this->fullwidth  = true;
